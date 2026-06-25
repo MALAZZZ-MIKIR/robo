@@ -1,2 +1,0 @@
-# robo_soccer
-yagitu
